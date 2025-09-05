@@ -12,7 +12,7 @@
 [![Portfolio][website-shield]](https://portfolio-mu-three-84.vercel.app/)
 [![Mail][mail-shield]](ishvitkhajuria23@gmail.com)
 [![Top Langs][top-langs-shield]](https://github-readme-stats.vercel.app/api/top-langs/?username=ishvit23&layout=compact)]
-[![GitHub stats][github-stats]](https://github-readme-stats.vercel.app/api?username=ishvit23&show_icons=true&theme=default)
+
 
 ---
 
@@ -115,5 +115,4 @@
 [mail-url]: ishvitkhajuria23@gmail.com
 [top-langs-shield]: https://img.shields.io/github/languages/top/<your-github-username>?style=flat
 [github-url]: https://github.com/ishvit23
-[github-stats]: https://github-readme-stats.vercel.app/api?username=ishvit23&show_icons=true&theme=default
 [github-stats-url]: https://github.com/ishvit23
