@@ -73,8 +73,6 @@
 
 # 📈 GitHub / Activity
 
-> Replace `ishvit23` below with your GitHub username to show live stats.
-
 ![Ishvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishvit23&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishvit23&layout=compact)
