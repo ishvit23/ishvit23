@@ -54,11 +54,13 @@
 
 # 💼 Experience Snapshot
 
+- **SWE_intern- Big Basket**  
+  Built LLM-based agents for internal tools etc.
+
+
 - **Machine Learning Intern — Labentix (Remote)**  
   Built LLM-based data-analyst agents (FastAPI + Together.ai) and Streamlit UIs.
 
-- **AI Agent Intern — IISPR**  
-  Implemented argument-extraction pipelines using n8n and LLMs.
 
 - **AICTE Internships (Shell / IBM SkillsBuild)**  
   ML analytics for energy datasets and AI/cloud prototype development.
@@ -67,7 +69,7 @@
   Delivered Math & Science solutions for Class 10 & 12 learners.
 
 - **Intern — Safe City Project**  
-  Drafted civic safety proposals and public-welfare content.
+  Drafted civic safety proposals and public-welfare content
 
 ---
 
